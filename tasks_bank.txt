@@ -1,0 +1,100 @@
+1|GCMM build deployment|2.0
+1|Checking model generation error|1.5
+1|Checking create plan issue|1.5
+1|Checking simulate plan issue|1.0
+1|Checking why plan creation is taking that much time|2.0
+1|Working on demo assigned tasks|3.0
+1|Sync up call with Ashish|0.5
+1|Sync up call with Diptesh|0.5
+1|Internal issue call with Krutik|0.5
+1|Sync up call with Sunil|0.5
+1|Creating Plans|2.5
+1|Checking incorrect data issue in workbench|2.0
+1|Checking config why data not coming|1.0
+3|Going through documentation|2.0
+3|Deploying GCMM build on dev|1.5
+3|Deploying DMM build on dev|1.5
+3|Sync up call with Raghav|0.5
+3|Sync up call with Sunil|0.5
+3|Sync up call with Ashish|0.5
+3|Taking readings|1.0
+3|Noting steps required for GCMM Build|1.0
+3|Checking with Mayuresh GCMM Build issue|1.0
+3|Checking with Shreyas GCMM Issue|1.0
+3|Checking with Mihir GCMM Issue|1.0
+3|Sync up call with Rohit|0.5
+3|Sync up call with Zaid|0.5
+3|Checking UAT issue|2.5
+3|Checking Prod issue|3.0
+3|Checking config in solution properties|1.5
+1|Investigating GCMM deployment failure|1.5
+1|Analyzing model generation logs|1.0
+1|Debugging create plan workflow|2.0
+1|Testing simulate plan functionality|1.5
+1|Optimizing plan creation speed|2.5
+1|Creating Plans for Demo|2.0
+1|Follow-up call with Ashish|0.5
+1|Status update call with Diptesh|0.5
+1|Hierarchy logic discussion with Krutik|0.5
+1|Reviewing workbench data with Sunil|0.5
+1|creation of test plans|2.0
+1|Validating data mapping in workbench|1.5
+1|Troubleshooting config for data fetch|2.0
+3|Updating Steps i.e documentating them|1.5
+3|Verifying GCMM dev deployment|1.0
+3|Sanity check for DMM dev build|1.0
+3|Sync up call with Raghav regarding logs|0.5
+3|Internal sync call with Sunil|0.5
+3|Technical alignment call with Ashish|0.5
+3|Logging environment readings|1.0
+3|Drafting GCMM build Steps0|1.5
+3|Discussion with Mayuresh on build errors|0.5
+3|Consulting Shreyas on GCMM logic|1.0
+3|Checking with Mihir's GCMM issue findings|1.0
+3|Sync call with Rohit on UAT issue|0.5
+3|Quick sync with Zaid|0.5
+3|Investigating UAT environment instability|2.0
+3|Analyzing Production server logs|2.5
+3|Checking email config in solution props|1.0
+1|GCMM build versioning check|1.0
+1|Fixing model generation parameters|2.0
+1|Verifying plan creation issue|1.5
+1|Simulate plan performance testing|2.0
+1|Monitoring plan processing time|1.0
+1|Executing assigned demo tasks|2.5
+1|Sync up with Ashish on task progress|0.5
+1|Daily sync with Diptesh|0.5
+1|Krutik - Internal technical discussion|0.5
+1|Sunil - Solution review call|0.5
+1|Validating plan outputs|1.5
+1|Checking workbench incorrect entries|2.0
+1|Re-configuring data source properties|1.5
+3|Cross-checking documentation for accuracy|2.0
+3|GCMM build re-deployment on dev|1.5
+3|DMM build monitoring on dev|1.0
+3|Raghav - Build UI backend integration status sync|0.5
+3|Sunil - Daily Sync up|0.5
+3|Ashish - Daily sync up|0.5
+3|Analyzing readings why mismatch is there in prev and post open call response|1.5
+3|Finalizing GCMM build checklist|1.0
+3|Mayuresh - Troubleshooting build issue|1.0
+3|Shreyas - Reviewing GCMM issues|1.0
+3|Mihir - Checking Issue while deploying|0.5
+3|Rohit - UAT defect Sync|0.5
+3|Zaid - Quick  sync|0.5
+3|Debugging UAT Logs failures|2.0
+3|GCMM sanity check after deployment|1.5
+3|Checking email distribution lists|1.0
+1|Reviewing GCMM build results|1.0
+1|Fixing model generation timeout|2.0
+1|Plan creation error handling|1.5
+1|Simulation module verification|1.5
+1|Demo Assigned tasks|1.0
+1|sync up call with Sunil|0.5
+3|Researching DMM deployment steps|1.5
+3|Updating GCMM build Steps|1.0
+1|Checking workbench data |1.5
+3|Solution Formulas verification |1.0
+1|Testing plan create edge cases|2.0
+3|Dev environment Open call error|1.0
+1|Verifying config for plan creation|1.5

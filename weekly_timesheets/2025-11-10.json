@@ -1,0 +1,454 @@
+{
+  "selectedDate": "2025-11-10",
+  "projectData": [
+    {
+      "Project": "PLM - Electronic Data (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Simulate plan performance testing",
+      "hrs": [
+        2.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "Project": "Century Communities - Release 1.0 (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Going through documentation",
+      "hrs": [
+        2.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "Project": "Century Communities - Release 1.0 (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Updating GCMM build Steps",
+      "hrs": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "Project": "Century Communities - Release 1.0 (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Checking email config in solution props",
+      "hrs": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "Project": "Century Communities - Release 1.0 (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Deploying GCMM build on dev",
+      "hrs": [
+        1.5,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "Project": "PLM - Electronic Data (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Daily sync with Diptesh",
+      "hrs": [
+        0.5,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "Project": "Century Communities - Release 1.0 (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Debugging UAT Logs failures",
+      "hrs": [
+        0.0,
+        2.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "Project": "PLM - Electronic Data (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Optimizing plan creation speed",
+      "hrs": [
+        0.0,
+        2.5,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "Project": "PLM - Electronic Data (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Follow-up call with Ashish",
+      "hrs": [
+        0.0,
+        0.5,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "Project": "PLM - Electronic Data (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Sunil - Solution review call",
+      "hrs": [
+        0.0,
+        0.5,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "Project": "Century Communities - Release 1.0 (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Sync up call with Zaid",
+      "hrs": [
+        0.0,
+        0.5,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "Project": "PLM - Electronic Data (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Plan creation error handling",
+      "hrs": [
+        0.0,
+        1.5,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "Project": "PLM - Electronic Data (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Sync up call with Ashish",
+      "hrs": [
+        0.0,
+        0.5,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "Project": "Century Communities - Release 1.0 (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Noting steps required for GCMM Build",
+      "hrs": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "Project": "Century Communities - Release 1.0 (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Rohit - UAT defect Sync",
+      "hrs": [
+        0.0,
+        0.0,
+        0.5,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "Project": "Century Communities - Release 1.0 (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Sanity check for DMM dev build",
+      "hrs": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "Project": "Century Communities - Release 1.0 (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Deploying DMM build on dev",
+      "hrs": [
+        0.0,
+        0.0,
+        1.5,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "Project": "PLM - Electronic Data (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Optimizing plan creation speed",
+      "hrs": [
+        0.0,
+        0.0,
+        2.5,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "Project": "PLM - Electronic Data (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Checking create plan issue",
+      "hrs": [
+        0.0,
+        0.0,
+        1.5,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "Project": "Century Communities - Release 1.0 (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Consulting Shreyas on GCMM logic",
+      "hrs": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "Project": "PLM - Electronic Data (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Monitoring plan processing time",
+      "hrs": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "Project": "PLM - Electronic Data (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Follow-up call with Ashish",
+      "hrs": [
+        0.0,
+        0.0,
+        0.0,
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "Project": "PLM - Electronic Data (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Demo Assigned tasks",
+      "hrs": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "Project": "PLM - Electronic Data (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Sync up call with Diptesh",
+      "hrs": [
+        0.0,
+        0.0,
+        0.0,
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "Project": "PLM - Electronic Data (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Checking workbench data",
+      "hrs": [
+        0.0,
+        0.0,
+        0.0,
+        1.5,
+        0.0
+      ]
+    },
+    {
+      "Project": "PLM - Electronic Data (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Simulation module verification",
+      "hrs": [
+        0.0,
+        0.0,
+        0.0,
+        1.5,
+        0.0
+      ]
+    },
+    {
+      "Project": "Century Communities - Release 1.0 (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Checking with Mihir GCMM Issue",
+      "hrs": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "Project": "PLM - Electronic Data (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Working on demo assigned tasks",
+      "hrs": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        3.0
+      ]
+    },
+    {
+      "Project": "Century Communities - Release 1.0 (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Solution Formulas verification",
+      "hrs": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "Project": "Century Communities - Release 1.0 (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Cross-checking documentation for accuracy",
+      "hrs": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.0
+      ]
+    },
+    {
+      "Project": "Century Communities - Release 1.0 (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Checking with Mihir GCMM Issue",
+      "hrs": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "Project": "Century Communities - Release 1.0 (Dept : SDG)",
+      "Task": "NA - NA",
+      "Module": "NA",
+      "Artifact": "NA",
+      "Remarks": "Verifying GCMM dev deployment",
+      "hrs": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  ],
+  "playwright_triggered": true
+}

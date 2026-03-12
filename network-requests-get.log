@@ -1,0 +1,90 @@
+{
+  "method": "POST",
+  "url": "https://edgqa.vistaar.cloud/Vistaar/Entity/executeScript?_dScript=SmartPricing_Service&_dFunc=get_ui_acl&User=tsmith%40vistaar.in&Role=ADM-ALL&UserSessionId=2967063",
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "cookie": "VISTAARAUTHTOKEN=9ba19d4f896eaa9daf1e41c0d681fe83; CSRFTOKEN=8f63eedbd1b3b223e69faffa7a833f0e; VSESSIONID=9D67D841900E996AE9C4EC53EBB977F6..; ZWRncWEudmlzdGFhci5jbG91ZFZpc3RhYXI==1726561190732",
+    "origin": "https://edgqa.vistaar.cloud",
+    "referer": "https://edgqa.vistaar.cloud/Vistaar/WebUI/Edrington/index.html",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.57 Safari/537.36"
+  },
+  "postData": "scriptName=SmartPricing_Service&paramName=%5B%22SolContext%22%5D&paramValue=%5B%7B%22operation%22%3A%22get_ui_acl%22%2C%22scope%22%3A%7B%22screen_name%22%3A%22Menu%22%7D%7D%5D&CSRFTOKEN=8f63eedbd1b3b223e69faffa7a833f0e",
+  "time": "2024-09-17T08:19:50.744Z"
+}
+{
+  "method": "POST",
+  "url": "https://edgqa.vistaar.cloud/Vistaar/Entity/executeScript?_dScript=SmartPricing_Service&_dFunc=get_my_task_data&User=tsmith%40vistaar.in&Role=ADM-ALL&UserSessionId=2967063",
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "cookie": "VISTAARAUTHTOKEN=9ba19d4f896eaa9daf1e41c0d681fe83; CSRFTOKEN=8f63eedbd1b3b223e69faffa7a833f0e; VSESSIONID=9D67D841900E996AE9C4EC53EBB977F6..; ZWRncWEudmlzdGFhci5jbG91ZFZpc3RhYXI==1726561194165",
+    "origin": "https://edgqa.vistaar.cloud",
+    "referer": "https://edgqa.vistaar.cloud/Vistaar/WebUI/Edrington/index.html",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.57 Safari/537.36"
+  },
+  "postData": "scriptName=SmartPricing_Service&paramName=%5B%22SolContext%22%5D&paramValue=%5B%7B%22operation%22%3A%22get_my_task_data%22%2C%22scope%22%3A%7B%22roleName%22%3A%22ADM-ALL%22%7D%7D%5D&CSRFTOKEN=8f63eedbd1b3b223e69faffa7a833f0e",
+  "time": "2024-09-17T08:19:54.182Z"
+}
+{
+  "method": "POST",
+  "url": "https://edgqa.vistaar.cloud/Vistaar/Entity/executeScript?_dScript=SmartPricing_Service&_dFunc=get_ui_acl&User=tsmith%40vistaar.in&Role=CAM-ATR&UserSessionId=2967103",
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "cookie": "VISTAARAUTHTOKEN=ab89be555f882da13889d60249532067; CSRFTOKEN=89634b332d0adc25ec0563b07d0c44d1; VSESSIONID=9D587503359BD7F5798943E9E843ADDC..; ZWRncWEudmlzdGFhci5jbG91ZFZpc3RhYXI==1726569424522",
+    "origin": "https://edgqa.vistaar.cloud",
+    "referer": "https://edgqa.vistaar.cloud/Vistaar/WebUI/Edrington/index.html",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.57 Safari/537.36"
+  },
+  "postData": "scriptName=SmartPricing_Service&paramName=%5B%22SolContext%22%5D&paramValue=%5B%7B%22operation%22%3A%22get_ui_acl%22%2C%22scope%22%3A%7B%22screen_name%22%3A%22Menu%22%7D%7D%5D&CSRFTOKEN=89634b332d0adc25ec0563b07d0c44d1",
+  "time": "2024-09-17T10:37:04.540Z"
+}
+{
+  "method": "POST",
+  "url": "https://edgqa.vistaar.cloud/Vistaar/Entity/executeScript?_dScript=SmartPricing_Service&_dFunc=get_my_task_data&User=tsmith%40vistaar.in&Role=CAM-ATR&UserSessionId=2967103",
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "cookie": "VISTAARAUTHTOKEN=ab89be555f882da13889d60249532067; CSRFTOKEN=89634b332d0adc25ec0563b07d0c44d1; VSESSIONID=9D587503359BD7F5798943E9E843ADDC..; ZWRncWEudmlzdGFhci5jbG91ZFZpc3RhYXI==1726569426776",
+    "origin": "https://edgqa.vistaar.cloud",
+    "referer": "https://edgqa.vistaar.cloud/Vistaar/WebUI/Edrington/index.html",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.57 Safari/537.36"
+  },
+  "postData": "scriptName=SmartPricing_Service&paramName=%5B%22SolContext%22%5D&paramValue=%5B%7B%22operation%22%3A%22get_my_task_data%22%2C%22scope%22%3A%7B%22roleName%22%3A%22CAM-ATR%22%7D%7D%5D&CSRFTOKEN=89634b332d0adc25ec0563b07d0c44d1",
+  "time": "2024-09-17T10:37:06.818Z"
+}
+{
+  "method": "POST",
+  "url": "https://edgqa.vistaar.cloud/Vistaar/Entity/executeScript?_dScript=SmartPricing_Service&_dFunc=get_ui_acl&User=tsmith%40vistaar.in&Role=CAM-ATR&UserSessionId=2967104",
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "cookie": "VISTAARAUTHTOKEN=229aff2418124c2f0275aa98bb386bf2; CSRFTOKEN=1191a31434fdd4fb01dfce036208d84a; VSESSIONID=5C1333AA3A3244AE266C91E0370E42F0..; ZWRncWEudmlzdGFhci5jbG91ZFZpc3RhYXI==1726569468755",
+    "origin": "https://edgqa.vistaar.cloud",
+    "referer": "https://edgqa.vistaar.cloud/Vistaar/WebUI/Edrington/index.html",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.57 Safari/537.36"
+  },
+  "postData": "scriptName=SmartPricing_Service&paramName=%5B%22SolContext%22%5D&paramValue=%5B%7B%22operation%22%3A%22get_ui_acl%22%2C%22scope%22%3A%7B%22screen_name%22%3A%22Menu%22%7D%7D%5D&CSRFTOKEN=1191a31434fdd4fb01dfce036208d84a",
+  "time": "2024-09-17T10:37:48.774Z"
+}
+{
+  "method": "POST",
+  "url": "https://edgqa.vistaar.cloud/Vistaar/Entity/executeScript?_dScript=SmartPricing_Service&_dFunc=get_my_task_data&User=tsmith%40vistaar.in&Role=CAM-ATR&UserSessionId=2967104",
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "cookie": "VISTAARAUTHTOKEN=229aff2418124c2f0275aa98bb386bf2; CSRFTOKEN=1191a31434fdd4fb01dfce036208d84a; VSESSIONID=5C1333AA3A3244AE266C91E0370E42F0..; ZWRncWEudmlzdGFhci5jbG91ZFZpc3RhYXI==1726569470736",
+    "origin": "https://edgqa.vistaar.cloud",
+    "referer": "https://edgqa.vistaar.cloud/Vistaar/WebUI/Edrington/index.html",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.57 Safari/537.36"
+  },
+  "postData": "scriptName=SmartPricing_Service&paramName=%5B%22SolContext%22%5D&paramValue=%5B%7B%22operation%22%3A%22get_my_task_data%22%2C%22scope%22%3A%7B%22roleName%22%3A%22CAM-ATR%22%7D%7D%5D&CSRFTOKEN=1191a31434fdd4fb01dfce036208d84a",
+  "time": "2024-09-17T10:37:50.773Z"
+}

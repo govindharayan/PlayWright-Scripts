@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><Script name="ScriptEvaluatorPV"><param name="_SCRIPT"><![CDATA[
+ importClass(java.io.FileWriter);
+importClass(java.io.BufferedWriter);
+
+var writeDataFile = function (returnData) {
+    var bf = null;
+    try {
+        var strFilePath = "/home/cloud_as1/users/govind/Community.json";
+        var fw = new FileWriter(strFilePath, false);
+        bf = new BufferedWriter(fw);
+        bf.write(JSON.stringify(returnData));
+        bf.close();
+    } catch(e) {
+        if (bf != null) {
+            try { bf.close(); } catch(e2) {}
+        }
+        throw e;
+    }
+}
+
+var CommunityList = ['00010422', '00010512'];
+var result = [];
+
+for (var itr = 0; itr < CommunityList.length; itr++) {
+    var objSolutionContext = {
+        "scope": {
+            "project_id": CommunityList[itr],
+            "company": "CCS",
+            "deviceInfo": "Laptop"
+        },
+        "operation": "open_price_plan"
+    };
+    
+    var solContext = new org.json.JSONObject(objSolutionContext);
+    var exeContext = new ExecutionContext(solContext, userConnInfo);
+    var objPPManager = new PM_PRI_Priceplan_Class(exeContext);
+    
+    var objReturnData = objPPManager.openPricePlan(objSolutionContext, docServerManager, userConnInfo);
+    var returnData = objReturnData['response']['WBData'];
+    result = result.concat(returnData); 
+}
+
+writeDataFile(result);
+var output = 'Success';
+
+]]></param></Script>
+ 
+    
+

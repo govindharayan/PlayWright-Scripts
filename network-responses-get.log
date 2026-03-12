@@ -1,0 +1,122 @@
+{
+  "url": "https://edgqa.vistaar.cloud/Vistaar/Entity/executeScript?_dScript=SmartPricing_Service&_dFunc=get_ui_acl&User=tsmith%40vistaar.in&Role=ADM-ALL&UserSessionId=2967063",
+  "status": 200,
+  "headers": {
+    "date": "Tue, 17 Sep 2024 08:19:50 GMT",
+    "strict-transport-security": "max-age=15768000",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "script-src: 'self'; connect-src: 'self' ;frame-src: 'self'; img-src:'self'; media-src: 'self'; object-src: 'self'; style-src: 'self'; font-src: 'self'; default-src: 'self'",
+    "server": "nginx/1.24.0",
+    "x-frame-options": "SAMEORIGIN",
+    "content-type": "application/json;charset=UTF-8",
+    "access-control-allow-origin": "https://edgqa.vistaar.cloud",
+    "cache-control": "no-cache, no-store, max-age=0",
+    "x-webkit-csp": "script-src: 'self'; connect-src: 'self' ;frame-src: 'self'; img-src:'self'; media-src: 'self'; object-src: 'self'; style-src: 'self'; font-src: 'self'; default-src: 'self'",
+    "content-length": "91",
+    "x-xss-protection": "1; mode=block",
+    "x-content-security-policy": "script-src: 'self'; connect-src: 'self' ;frame-src: 'self'; img-src:'self'; media-src: 'self'; object-src: 'self'; style-src: 'self'; font-src: 'self'; default-src: 'self'"
+  },
+  "time": "2024-09-17T08:19:50.932Z"
+}
+{
+  "url": "https://edgqa.vistaar.cloud/Vistaar/Entity/executeScript?_dScript=SmartPricing_Service&_dFunc=get_my_task_data&User=tsmith%40vistaar.in&Role=ADM-ALL&UserSessionId=2967063",
+  "status": 200,
+  "headers": {
+    "date": "Tue, 17 Sep 2024 08:19:55 GMT",
+    "strict-transport-security": "max-age=15768000",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "script-src: 'self'; connect-src: 'self' ;frame-src: 'self'; img-src:'self'; media-src: 'self'; object-src: 'self'; style-src: 'self'; font-src: 'self'; default-src: 'self'",
+    "server": "nginx/1.24.0",
+    "x-frame-options": "SAMEORIGIN",
+    "content-type": "application/json;charset=UTF-8",
+    "access-control-allow-origin": "https://edgqa.vistaar.cloud",
+    "cache-control": "no-cache, no-store, max-age=0",
+    "x-webkit-csp": "script-src: 'self'; connect-src: 'self' ;frame-src: 'self'; img-src:'self'; media-src: 'self'; object-src: 'self'; style-src: 'self'; font-src: 'self'; default-src: 'self'",
+    "content-length": "186",
+    "x-xss-protection": "1; mode=block",
+    "x-content-security-policy": "script-src: 'self'; connect-src: 'self' ;frame-src: 'self'; img-src:'self'; media-src: 'self'; object-src: 'self'; style-src: 'self'; font-src: 'self'; default-src: 'self'"
+  },
+  "time": "2024-09-17T08:19:55.138Z"
+}
+{
+  "url": "https://edgqa.vistaar.cloud/Vistaar/Entity/executeScript?_dScript=SmartPricing_Service&_dFunc=get_ui_acl&User=tsmith%40vistaar.in&Role=CAM-ATR&UserSessionId=2967103",
+  "status": 200,
+  "headers": {
+    "date": "Tue, 17 Sep 2024 10:37:04 GMT",
+    "strict-transport-security": "max-age=15768000",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "script-src: 'self'; connect-src: 'self' ;frame-src: 'self'; img-src:'self'; media-src: 'self'; object-src: 'self'; style-src: 'self'; font-src: 'self'; default-src: 'self'",
+    "server": "nginx/1.24.0",
+    "x-frame-options": "SAMEORIGIN",
+    "content-type": "application/json;charset=UTF-8",
+    "access-control-allow-origin": "https://edgqa.vistaar.cloud",
+    "cache-control": "no-cache, no-store, max-age=0",
+    "x-webkit-csp": "script-src: 'self'; connect-src: 'self' ;frame-src: 'self'; img-src:'self'; media-src: 'self'; object-src: 'self'; style-src: 'self'; font-src: 'self'; default-src: 'self'",
+    "content-length": "91",
+    "x-xss-protection": "1; mode=block",
+    "x-content-security-policy": "script-src: 'self'; connect-src: 'self' ;frame-src: 'self'; img-src:'self'; media-src: 'self'; object-src: 'self'; style-src: 'self'; font-src: 'self'; default-src: 'self'"
+  },
+  "time": "2024-09-17T10:37:04.840Z"
+}
+{
+  "url": "https://edgqa.vistaar.cloud/Vistaar/Entity/executeScript?_dScript=SmartPricing_Service&_dFunc=get_my_task_data&User=tsmith%40vistaar.in&Role=CAM-ATR&UserSessionId=2967103",
+  "status": 200,
+  "headers": {
+    "date": "Tue, 17 Sep 2024 10:37:08 GMT",
+    "strict-transport-security": "max-age=15768000",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "script-src: 'self'; connect-src: 'self' ;frame-src: 'self'; img-src:'self'; media-src: 'self'; object-src: 'self'; style-src: 'self'; font-src: 'self'; default-src: 'self'",
+    "content-encoding": "gzip",
+    "server": "nginx/1.24.0",
+    "x-frame-options": "SAMEORIGIN",
+    "vary": "accept-encoding",
+    "content-type": "application/json",
+    "access-control-allow-origin": "https://edgqa.vistaar.cloud",
+    "cache-control": "no-cache, no-store, max-age=0",
+    "x-webkit-csp": "script-src: 'self'; connect-src: 'self' ;frame-src: 'self'; img-src:'self'; media-src: 'self'; object-src: 'self'; style-src: 'self'; font-src: 'self'; default-src: 'self'",
+    "x-xss-protection": "1; mode=block",
+    "x-content-security-policy": "script-src: 'self'; connect-src: 'self' ;frame-src: 'self'; img-src:'self'; media-src: 'self'; object-src: 'self'; style-src: 'self'; font-src: 'self'; default-src: 'self'"
+  },
+  "time": "2024-09-17T10:37:08.286Z"
+}
+{
+  "url": "https://edgqa.vistaar.cloud/Vistaar/Entity/executeScript?_dScript=SmartPricing_Service&_dFunc=get_ui_acl&User=tsmith%40vistaar.in&Role=CAM-ATR&UserSessionId=2967104",
+  "status": 200,
+  "headers": {
+    "date": "Tue, 17 Sep 2024 10:37:48 GMT",
+    "strict-transport-security": "max-age=15768000",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "script-src: 'self'; connect-src: 'self' ;frame-src: 'self'; img-src:'self'; media-src: 'self'; object-src: 'self'; style-src: 'self'; font-src: 'self'; default-src: 'self'",
+    "server": "nginx/1.24.0",
+    "x-frame-options": "SAMEORIGIN",
+    "content-type": "application/json;charset=UTF-8",
+    "access-control-allow-origin": "https://edgqa.vistaar.cloud",
+    "cache-control": "no-cache, no-store, max-age=0",
+    "x-webkit-csp": "script-src: 'self'; connect-src: 'self' ;frame-src: 'self'; img-src:'self'; media-src: 'self'; object-src: 'self'; style-src: 'self'; font-src: 'self'; default-src: 'self'",
+    "content-length": "91",
+    "x-xss-protection": "1; mode=block",
+    "x-content-security-policy": "script-src: 'self'; connect-src: 'self' ;frame-src: 'self'; img-src:'self'; media-src: 'self'; object-src: 'self'; style-src: 'self'; font-src: 'self'; default-src: 'self'"
+  },
+  "time": "2024-09-17T10:37:49.109Z"
+}
+{
+  "url": "https://edgqa.vistaar.cloud/Vistaar/Entity/executeScript?_dScript=SmartPricing_Service&_dFunc=get_my_task_data&User=tsmith%40vistaar.in&Role=CAM-ATR&UserSessionId=2967104",
+  "status": 200,
+  "headers": {
+    "date": "Tue, 17 Sep 2024 10:37:52 GMT",
+    "strict-transport-security": "max-age=15768000",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "script-src: 'self'; connect-src: 'self' ;frame-src: 'self'; img-src:'self'; media-src: 'self'; object-src: 'self'; style-src: 'self'; font-src: 'self'; default-src: 'self'",
+    "content-encoding": "gzip",
+    "server": "nginx/1.24.0",
+    "x-frame-options": "SAMEORIGIN",
+    "vary": "accept-encoding",
+    "content-type": "application/json",
+    "access-control-allow-origin": "https://edgqa.vistaar.cloud",
+    "cache-control": "no-cache, no-store, max-age=0",
+    "x-webkit-csp": "script-src: 'self'; connect-src: 'self' ;frame-src: 'self'; img-src:'self'; media-src: 'self'; object-src: 'self'; style-src: 'self'; font-src: 'self'; default-src: 'self'",
+    "x-xss-protection": "1; mode=block",
+    "x-content-security-policy": "script-src: 'self'; connect-src: 'self' ;frame-src: 'self'; img-src:'self'; media-src: 'self'; object-src: 'self'; style-src: 'self'; font-src: 'self'; default-src: 'self'"
+  },
+  "time": "2024-09-17T10:37:52.364Z"
+}

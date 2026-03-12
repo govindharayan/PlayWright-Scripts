@@ -1,0 +1,70 @@
+{
+    "selectedDate": "18-Dec-23 to 24-Dec-23",
+    "projectData": [{
+   
+    "Project" : "APO Pool (Dept : SDG)",
+    "Task" : "Build / Construction - Build Deployment/Sanity",
+    "Module" : "NA",
+    "Artifact" : "NA",
+    "Remarks" : "oracle dev sanity",
+    "hrs" : ["08", "00", "00", "00", "00"]
+ 
+},
+ 
+{
+   
+    "Project" : "APO Pool (Dept : SDG)",
+    "Task" : "Build / Construction - Build Deployment/Sanity",
+    "Module" : "NA",
+    "Artifact" : "NA",
+    "Remarks" : "Weekly Sync Up",
+    "hrs" : ["00", "08", "00", "00", "00"]
+},
+ 
+{
+   
+    "Project" : "APO Pool (Dept : SDG)",
+    "Task" : "Build / Construction - Build Deployment/Sanity",
+    "Module" : "NA",
+    "Artifact" : "NA",
+    "Remarks" : "Weekly Sync Up",
+    "hrs" : ["00", "00", "08", "00", "00"]
+},
+{
+   
+    "Project" : "APO Pool (Dept : SDG)",
+    "Task" : "Build / Construction - Build Script Changes",
+    "Module" : "Entire Solution",
+    "Artifact" : "NA",
+    "Remarks" : "Weekly Sync Up",
+    "hrs" : ["00", "00", "00", "09", "00"]
+},
+{
+   
+    "Project" : "SmartQuote - Easy Onboarding (Dept : SDG)",
+    "Task" : "Build / Construction - Build Script Changes",
+    "Module" : "Entire Solution",
+    "Artifact" : "NA",
+    "Remarks" : "Weekly Sync Up",
+    "hrs" : ["00", "00", "00", "00", "10"]
+},
+{
+   
+    "Project" : "SmartQuote - Easy Onboarding (Dept : SDG)",
+    "Task" : "Build / Construction - Build Deployment/Sanity",
+    "Module" : "NA",
+    "Artifact" : "NA",
+    "Remarks" : "Weekly Sync Up",
+    "hrs" : ["00", "08", "00", "00", "01"]
+},
+{
+   
+    "Project" : "APO Pool (Dept : SDG)",
+    "Task" : "Build / Construction - Build Script Changes",
+    "Module" : "Entire Solution",
+    "Artifact" : "NA",
+    "Remarks" : "Weekly Sync Up",
+    "hrs" : ["00", "00", "08", "00", "01"]
+}
+]
+}

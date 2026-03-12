@@ -1,0 +1,2 @@
+@echo off
+start "" pythonw "C:\path\to\your\script\daily_tracker.py"
